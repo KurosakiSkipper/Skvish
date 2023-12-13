@@ -12,9 +12,8 @@
 
 <html>
     <body>
-        <p class="levelProgress">
-        Твой уровень: @level 
-        </p>
+        <p class="levelProgress">Твой уровень: @level</p>
+
         <div class="w3-light-grey">
             <div class="w3-grey" style="width: @progress%"></div>
         </div>
@@ -48,6 +47,7 @@
         width: 100%;
         height: 25px;
         background-color: lightgray;
+        border-radius: 10px;
     }
 
     .w3-grey
@@ -70,6 +70,7 @@
         width: 100%;
         height: auto;
     }
+
     .leaderBoardDiv
     {
         position: relative;
@@ -114,6 +115,10 @@
     async protected override Task OnInitializedAsync()
     {
         userAccountService.UsersChanged += UpdateCounter;
+
+        UpdateCounter(userAccountService.Users);
+
+        await InvokeAsync(StateHasChanged);
     }
 
     async void UpdateCounter(List<UserAccount> users)
