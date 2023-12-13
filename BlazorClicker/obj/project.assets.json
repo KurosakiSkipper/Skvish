@@ -569,19 +569,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kosta\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
       "projectName": "BlazorClicker",
-      "projectPath": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
-      "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -589,6 +589,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -631,7 +632,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

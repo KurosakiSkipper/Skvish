@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorClicker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1e3e7b284cce2ef0abe189e9c49686f8a23eeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorClicker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorClicker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

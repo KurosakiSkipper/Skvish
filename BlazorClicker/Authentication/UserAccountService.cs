@@ -27,6 +27,8 @@ namespace BlazorClicker.Authentication
                 new UserAccount{ UserName = "Lairon", Password = "Lairon", Role = "Administrator", Level = 1, LevelUpNeeded = 100 },
                 new UserAccount{ UserName = "Мамаев", Password = "Мамаев", Role = "User", Level = 1, LevelUpNeeded = 100 },
                 new UserAccount{ UserName = "Егор", Password = "Егор", Role = "User", Level = 1, LevelUpNeeded = 100 },
+                new UserAccount{ UserName = "Deniska", Password = "Deniska", Role = "User", Level = 1, LevelUpNeeded = 100 },
+                new UserAccount{ UserName = "Urofile", Password = "Urofile", Role = "User", Level = 1, LevelUpNeeded = 100 },
             };
             _users.Sort((x, y) => y.Balance.CompareTo(x.Balance));
         }

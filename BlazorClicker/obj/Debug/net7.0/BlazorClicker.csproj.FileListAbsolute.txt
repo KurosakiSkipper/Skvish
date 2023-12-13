@@ -97,3 +97,37 @@ D:\Windows\User\Рабочий стол\BlazorClicker\obj\Debug\net7.0\refint\Bl
 D:\Windows\User\Рабочий стол\BlazorClicker\obj\Debug\net7.0\BlazorClicker.pdb
 D:\Windows\User\Рабочий стол\BlazorClicker\obj\Debug\net7.0\BlazorClicker.genruntimeconfig.cache
 D:\Windows\User\Рабочий стол\BlazorClicker\obj\Debug\net7.0\ref\BlazorClicker.dll
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.staticwebassets.runtime.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.exe
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.deps.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.runtimeconfig.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.dll
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.pdb
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\Blazored.LocalStorage.dll
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.RazorAssemblyInfo.cache
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.RazorAssemblyInfo.cs
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.sourcelink.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets\msbuild.BlazorClicker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorClicker.props
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorClicker.props
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorClicker.props
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\scopedcss\bundle\BlazorClicker.styles.css
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\scopedcss\projectbundle\BlazorClicker.bundle.scp.css
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.csproj.CopyComplete
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.dll
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\refint\BlazorClicker.dll
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.pdb
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\ref\BlazorClicker.dll

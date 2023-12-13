@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KAzlbptFvz3IvcEroyCZg19lovDzZ2RtRL1ZKvAIygo=",
+  "Hash": "ZCrs7LFwye8KhWtfCX2GdpmVxwIpJBBESbCcpvEMjIc=",
   "Source": "BlazorClicker",
   "BasePath": "_content/BlazorClicker",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorClicker\\wwwroot",
       "Source": "BlazorClicker",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorClicker.styles.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorClicker.styles.css",
       "SourceId": "BlazorClicker",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "BlazorClicker.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorClicker.styles.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorClicker.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorClicker.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorClicker.bundle.scp.css",
       "SourceId": "BlazorClicker",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "BlazorClicker.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorClicker.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorClicker.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\Assets\\Images\\3.png",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\Assets\\Images\\3.png",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "Assets/Images/3.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Images\\3.png"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\Assets\\Images\\button.png",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\Assets\\Images\\button.png",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "Assets/Images/button.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Images\\button.png"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\Assets\\Sounds\\mainTheme.mp3",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\Assets\\Sounds\\mainTheme.mp3",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "Assets/Sounds/mainTheme.mp3",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Sounds\\mainTheme.mp3"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\css\\site.css",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\favicon.png",
       "SourceId": "BlazorClicker",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\Skvish\\BlazorClicker\\wwwroot\\",
       "BasePath": "_content/BlazorClicker",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
