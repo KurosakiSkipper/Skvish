@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Data\" />
     <Folder Include="wwwroot\css\bootstrap\" />
     <Folder Include="wwwroot\css\open-iconic\font\css\" />
   </ItemGroup>
