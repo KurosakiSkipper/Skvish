@@ -10,31 +10,28 @@
 
 <PageTitle>Кликер</PageTitle>
 
-<html>
-    <body>
-        <p class="levelProgress">Твой уровень: @level</p>
+<main>
+    <p class="levelProgress">Твой уровень: @level</p>
 
-        <div class="w3-light-grey">
-            <div class="w3-grey" style="width: @progress%"></div>
+    <div class="w3-light-grey">
+        <div class="w3-grey" style="width: @progress%"></div>
+    </div>
+
+    <div class="container">
+        <div class="leaderBoardDiv">
+            @for (int i = 0; i < 5; i++)
+            {
+                <p>@userAccountService.Users[i].UserName: @userAccountService.Users[i].Level</p>
+            }
         </div>
+    </div>
 
-        <div class="container">
-            <div class="leaderBoardDiv">
-                @for (int i=0; i < 5; i++)
-                {
-                    <p>@userAccountService.Users[i].UserName: @userAccountService.Users[i].Level</p>
-                }
-            </div>
-        </div>
+    <p role="status" class="clickCount">Количество кликов: @currentCount</p>
 
-        <p role="status" class="clickCount">Количество кликов: @currentCount</p>
-
-        <img class="button" src="./Assets/Images/button.png" @onclick="IncrementCount"/>
-    </body>
-</html>
+    <img class="button" src="./Assets/Images/button.png" @onclick="IncrementCount" />
+</main>
 <style>
-
-    html, body {
+    html, body, main {
         height: 100%;
         margin: 0;
         padding: 0;

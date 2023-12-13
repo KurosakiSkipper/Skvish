@@ -105,8 +105,6 @@ C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.d
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.runtimeconfig.json
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.dll
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\BlazorClicker.pdb
-C:\Users\User\Source\Repos\Skvish\BlazorClicker\bin\Debug\net7.0\Blazored.LocalStorage.dll
-C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.csproj.AssemblyReference.cache
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.AssemblyInfoInputs.cache
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.AssemblyInfo.cs
@@ -125,7 +123,6 @@ C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\staticwebassets
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\scopedcss\bundle\BlazorClicker.styles.css
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\scopedcss\projectbundle\BlazorClicker.bundle.scp.css
-C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.csproj.CopyComplete
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.dll
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\refint\BlazorClicker.dll
 C:\Users\User\Source\Repos\Skvish\BlazorClicker\obj\Debug\net7.0\BlazorClicker.pdb
