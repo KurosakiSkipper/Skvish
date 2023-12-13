@@ -1,4 +1,3 @@
-using Blazored.LocalStorage;
 using BlazorClicker.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;
 
@@ -7,7 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddAuthenticationCore();
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthenticationStateProvider>();
 builder.Services.AddSingleton<UserAccountService>();
 
