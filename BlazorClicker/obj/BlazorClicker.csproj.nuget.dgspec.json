@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\BlazorClicker.csproj": {}
+    "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\BlazorClicker.csproj": {
+    "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\BlazorClicker.csproj",
+        "projectUniqueName": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
         "projectName": "BlazorClicker",
-        "projectPath": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\BlazorClicker.csproj",
+        "projectPath": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
         "packagesPath": "C:\\Users\\kosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\obj\\",
+        "outputPath": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kosta\\AppData\\Roaming\\NuGet\\NuGet.Config",

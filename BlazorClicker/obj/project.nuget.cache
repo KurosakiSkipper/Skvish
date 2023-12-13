@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84GOidxzzZHobAlwzpAHtHk5zozTxtHzrd7JSHxjRlFOwQnHAWxvG3UIbde3YRWhM8sZiT5DPB74kCSMOVbLHw==",
+  "dgSpecHash": "HopNkXjG2KHJZH3DhipvA0z0nxZ+qPQNYEifFIWbJ7vrfLIQluxwEvmtRbymWQuDk3csyKcLb+IyVAEnxptKTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\BlazorClicker.csproj",
+  "projectFilePath": "C:\\Users\\kosta\\Source\\Repos\\KurosakiSkipper\\Skvish\\BlazorClicker\\BlazorClicker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kosta\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
