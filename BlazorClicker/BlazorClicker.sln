@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorClicker", "BlazorClicker.csproj", "{11513583-B7C8-4C2D-AC34-42B2AF24112C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11513583-B7C8-4C2D-AC34-42B2AF24112C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11513583-B7C8-4C2D-AC34-42B2AF24112C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11513583-B7C8-4C2D-AC34-42B2AF24112C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11513583-B7C8-4C2D-AC34-42B2AF24112C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115C7589-E8FB-408E-B8AC-2EA61E8953E1}
+	EndGlobalSection
+EndGlobal

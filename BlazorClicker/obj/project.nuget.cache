@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "84GOidxzzZHobAlwzpAHtHk5zozTxtHzrd7JSHxjRlFOwQnHAWxvG3UIbde3YRWhM8sZiT5DPB74kCSMOVbLHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosta\\OneDrive\\Рабочий стол\\BlazorClicker\\BlazorClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosta\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.0\\microsoft.aspnetcore.components.analyzers.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.0\\microsoft.aspnetcore.components.forms.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.0\\microsoft.aspnetcore.components.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.0\\microsoft.aspnetcore.metadata.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.jsinterop\\7.0.0\\microsoft.jsinterop.7.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

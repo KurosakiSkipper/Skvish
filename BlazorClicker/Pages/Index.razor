@@ -1,0 +1,150 @@
+﻿@page "/"
+@using BlazorClicker.Authentication
+@using System.Security.Claims
+@inject UserAccountService userAccountService
+@inject IJSRuntime js
+@inject AuthenticationStateProvider authStateProvider
+@inject NavigationManager navManager
+
+@attribute [Authorize]
+
+<PageTitle>Кликер</PageTitle>
+
+<html>
+    <body>
+        <p class="levelProgress">
+        Твой уровень: @level 
+        </p>
+        <div class="w3-light-grey">
+            <div class="w3-grey" style="width: @progress%"></div>
+        </div>
+        <div class="container">
+            <div class="leaderBoardDiv">
+                @foreach (var user in userAccountService.Users)
+                {
+                    <p>@user.UserName: @user.Level</p>
+                }
+            </div>
+        </div>
+
+        <p role="status" class="clickCount">Количество кликов: @currentCount</p>
+
+        <img class="button" src="./Assets/Images/button.png" @onclick="IncrementCount"/>
+    </body>
+</html>
+<style>
+
+    html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-image: url("./Assets/Images/3.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .w3-light-grey
+    {
+        width: 100%;
+        height: 25px;
+        background-color: lightgray;
+    }
+
+    .w3-grey
+    {
+        height: 100%;
+        background-color: gray;
+    }
+
+    .levelProgress
+    {
+        display: flex;
+        justify-content: center;
+        font-size: 20px;
+    }
+
+    .container
+    {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: auto;
+    }
+    .leaderBoardDiv
+    {
+        position: relative;
+        top: 10px;
+        left: 10px;
+        padding: 10px;
+        margin: 0px;
+        background-color: #6495ED;
+        border-radius: 10px;
+        width: 200px;
+        height: auto;
+        opacity :0.7;
+    }
+
+    .clickCount
+    {
+        display: flex;
+        justify-content: center;
+        font-style: oblique;
+        margin-top: 100px;
+    }
+
+    .button
+    {
+        display: block;
+        margin: 0 auto;
+        width: 100px;
+        height: 129px;
+    }
+
+</style>
+
+@code {
+    private int currentCount = 0;
+    private List<UserAccount>? _users;
+    private string leaderBoard = String.Empty;
+    private ElementReference leaderBoardDiv;
+    private int level;
+    private float progress;
+    private int levelUpNeed;
+
+    async protected override Task OnInitializedAsync()
+    {
+        userAccountService.UsersChanged += UpdateCounter;
+    }
+
+    async void UpdateCounter(List<UserAccount> users)
+    {
+        _users = users;
+
+        var state = await authStateProvider.GetAuthenticationStateAsync();
+
+        var user = userAccountService.GetUserByState(state);
+
+        if (user == null)
+            return;
+
+        currentCount = user.Balance;
+        level = user.Level;
+        progress = user.Progress;
+        levelUpNeed = user.LevelUpNeeded;
+
+        await InvokeAsync(StateHasChanged);
+    }
+
+    async private void IncrementCount()
+    {
+        var state = await authStateProvider.GetAuthenticationStateAsync();
+
+        var user = userAccountService.GetUserByState(state);
+
+        if (user == null)
+            return;
+
+        userAccountService.IncrementBalance(user.UserName);
+    }
+}
+
